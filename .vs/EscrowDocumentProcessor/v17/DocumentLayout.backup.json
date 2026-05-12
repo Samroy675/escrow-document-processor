@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|c:\\users\\6152789\\documents\\escrow process automation - task 1\\escrowdocumentprocessor\\services\\azureopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|solutionrelative:escrowdocumentprocessor\\services\\azureopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|c:\\users\\6152789\\documents\\escrow process automation - task 1\\escrowdocumentprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|solutionrelative:escrowdocumentprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|c:\\users\\6152789\\documents\\escrow process automation - task 1\\escrowdocumentprocessor\\models\\parsedocrdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|solutionrelative:escrowdocumentprocessor\\models\\parsedocrdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|c:\\users\\6152789\\documents\\escrow process automation - task 1\\escrowdocumentprocessor\\services\\ocrparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|solutionrelative:escrowdocumentprocessor\\services\\ocrparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|c:\\users\\6152789\\documents\\escrow process automation - task 1\\escrowdocumentprocessor\\services\\documentintelligenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|solutionrelative:escrowdocumentprocessor\\services\\documentintelligenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|c:\\users\\6152789\\documents\\escrow process automation - task 1\\escrowdocumentprocessor\\prompts\\escrowextractionprompttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|solutionrelative:escrowdocumentprocessor\\prompts\\escrowextractionprompttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|c:\\users\\6152789\\documents\\escrow process automation - task 1\\escrowdocumentprocessor\\prompts\\escrowextractionpromptbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|solutionrelative:escrowdocumentprocessor\\prompts\\escrowextractionpromptbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|c:\\users\\6152789\\documents\\escrow process automation - task 1\\escrowdocumentprocessor\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|solutionrelative:escrowdocumentprocessor\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|c:\\users\\6152789\\documents\\escrow process automation - task 1\\escrowdocumentprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|solutionrelative:escrowdocumentprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|c:\\users\\6152789\\documents\\escrow process automation - task 1\\escrowdocumentprocessor\\escrowdocumentprocessor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{118AA030-C753-49B6-A344-F66B5DBEFE43}|EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj|solutionrelative:escrowdocumentprocessor\\escrowdocumentprocessor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EscrowExtractionPromptTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Prompts\\EscrowExtractionPromptTemplate.cs",
+              "RelativeDocumentMoniker": "EscrowDocumentProcessor\\Prompts\\EscrowExtractionPromptTemplate.cs",
+              "ToolTip": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Prompts\\EscrowExtractionPromptTemplate.cs",
+              "RelativeToolTip": "EscrowDocumentProcessor\\Prompts\\EscrowExtractionPromptTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:41:06.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzureOpenAiService.cs",
+              "DocumentMoniker": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Services\\AzureOpenAiService.cs",
+              "RelativeDocumentMoniker": "EscrowDocumentProcessor\\Services\\AzureOpenAiService.cs",
+              "ToolTip": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Services\\AzureOpenAiService.cs",
+              "RelativeToolTip": "EscrowDocumentProcessor\\Services\\AzureOpenAiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:27:08.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EscrowExtractionPromptBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Prompts\\EscrowExtractionPromptBuilder.cs",
+              "RelativeDocumentMoniker": "EscrowDocumentProcessor\\Prompts\\EscrowExtractionPromptBuilder.cs",
+              "ToolTip": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Prompts\\EscrowExtractionPromptBuilder.cs",
+              "RelativeToolTip": "EscrowDocumentProcessor\\Prompts\\EscrowExtractionPromptBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:12:46.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OcrParserService.cs",
+              "DocumentMoniker": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Services\\OcrParserService.cs",
+              "RelativeDocumentMoniker": "EscrowDocumentProcessor\\Services\\OcrParserService.cs",
+              "ToolTip": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Services\\OcrParserService.cs",
+              "RelativeToolTip": "EscrowDocumentProcessor\\Services\\OcrParserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:45:55.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParsedOcrDocument.cs",
+              "DocumentMoniker": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Models\\ParsedOcrDocument.cs",
+              "RelativeDocumentMoniker": "EscrowDocumentProcessor\\Models\\ParsedOcrDocument.cs",
+              "ToolTip": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Models\\ParsedOcrDocument.cs",
+              "RelativeToolTip": "EscrowDocumentProcessor\\Models\\ParsedOcrDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:42:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "EscrowDocumentProcessor\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "EscrowDocumentProcessor\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:49:03.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentIntelligenceService.cs",
+              "DocumentMoniker": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Services\\DocumentIntelligenceService.cs",
+              "RelativeDocumentMoniker": "EscrowDocumentProcessor\\Services\\DocumentIntelligenceService.cs",
+              "ToolTip": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Services\\DocumentIntelligenceService.cs",
+              "RelativeToolTip": "EscrowDocumentProcessor\\Services\\DocumentIntelligenceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:28:17.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\appsettings.json",
+              "RelativeDocumentMoniker": "EscrowDocumentProcessor\\appsettings.json",
+              "ToolTip": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\appsettings.json*",
+              "RelativeToolTip": "EscrowDocumentProcessor\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T08:30:56.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EscrowDocumentProcessor.csproj",
+              "DocumentMoniker": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj",
+              "RelativeDocumentMoniker": "EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj",
+              "ToolTip": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj",
+              "RelativeToolTip": "EscrowDocumentProcessor\\EscrowDocumentProcessor.csproj",
+              "ViewState": "AgIAABUAAACAMzMzMzMbwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T08:25:28.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "EscrowDocumentProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\6152789\\Documents\\Escrow Process Automation - Task 1\\EscrowDocumentProcessor\\Program.cs",
+              "RelativeToolTip": "EscrowDocumentProcessor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:25:20.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

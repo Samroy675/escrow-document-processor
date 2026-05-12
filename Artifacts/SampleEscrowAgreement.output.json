@@ -1,0 +1,142 @@
+[
+  {
+    "fieldName": "Escrow Reference Number",
+    "extractedValue": "ESC-REF-2024-NY-00583",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 1 - AGREEMENT IDENTIFICATION",
+    "lineReference": "Field 01 - Escrow Reference No."
+  },
+  {
+    "fieldName": "Agreement Date",
+    "extractedValue": "01 October 2024",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 1 - AGREEMENT IDENTIFICATION",
+    "lineReference": "Field 02 - Agreement Date"
+  },
+  {
+    "fieldName": "Agreement Type",
+    "extractedValue": "Real Estate Purchase Escrow",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 1 - AGREEMENT IDENTIFICATION",
+    "lineReference": "Field 03 - Agreement Type"
+  },
+  {
+    "fieldName": "Jurisdiction",
+    "extractedValue": "State of New York, USA",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 1 - AGREEMENT IDENTIFICATION",
+    "lineReference": "Field 04 - Jurisdiction"
+  },
+  {
+    "fieldName": "Escrow Agent Name",
+    "extractedValue": "Meridian Trust & Escrow Services LLC",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 2 - ESCROW AGENT DETAILS",
+    "lineReference": "Field 05 - Escrow Agent Name"
+  },
+  {
+    "fieldName": "Agent License Number",
+    "extractedValue": "ESC-2019-00341",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 2 - ESCROW AGENT DETAILS",
+    "lineReference": "Field 06 - Agent License No."
+  },
+  {
+    "fieldName": "Agent Contact Email",
+    "extractedValue": "escrow.ops@meridiantrust.com",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 2 - ESCROW AGENT DETAILS",
+    "lineReference": "Field 07 - Agent Contact Email"
+  },
+  {
+    "fieldName": "Depositor Full Name",
+    "extractedValue": "Mr. Jonathan A. Hargrove",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 3 - DEPOSITOR (BUYER) DETAILS",
+    "lineReference": "Field 08 - Depositor Full Name"
+  },
+  {
+    "fieldName": "Depositor ID",
+    "extractedValue": "SSN: ***-**- 6742 | Passport: US-P8834921",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 3 - DEPOSITOR (BUYER) DETAILS",
+    "lineReference": "Field 09 - Depositor ID (masked)"
+  },
+  {
+    "fieldName": "Depositor Address",
+    "extractedValue": "88 Lakeview Terrace, Brooklyn, NY 11201",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 3 - DEPOSITOR (BUYER) DETAILS",
+    "lineReference": "Field 10 - Depositor Address"
+  },
+  {
+    "fieldName": "Beneficiary Full Name",
+    "extractedValue": "Silverstone Realty Holdings Inc.",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 4 - BENEFICIARY (SELLER) DETAILS",
+    "lineReference": "Field 11 - Beneficiary Full Name"
+  },
+  {
+    "fieldName": "Beneficiary Tax ID",
+    "extractedValue": "EIN: 47-8834210",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 4 - BENEFICIARY (SELLER) DETAILS",
+    "lineReference": "Field 12 - Beneficiary Tax ID (EIN)"
+  },
+  {
+    "fieldName": "Beneficiary Bank Account",
+    "extractedValue": "Chase Bank | Acct: **** 4892 | ABA: 021000021",
+    "pageNumber": 1,
+    "paragraphReference": "SECTION 4 - BENEFICIARY (SELLER) DETAILS",
+    "lineReference": "Field 13 - Beneficiary Bank Account"
+  },
+  {
+    "fieldName": "Total Escrow Amount",
+    "extractedValue": "USD 1,250,000.00",
+    "pageNumber": 2,
+    "paragraphReference": "SECTION 5 - ESCROW FINANCIAL TERMS",
+    "lineReference": "Field 14 - Total Escrow Amount"
+  },
+  {
+    "fieldName": "Initial Deposit Amount",
+    "extractedValue": "USD 125,000.00 (10% of Total)",
+    "pageNumber": 2,
+    "paragraphReference": "SECTION 5 - ESCROW FINANCIAL TERMS",
+    "lineReference": "Field 15 - Initial Deposit Amount"
+  },
+  {
+    "fieldName": "Escrow Service Fee",
+    "extractedValue": "USD 3,750.00 (0.3% of Escrow Amount)",
+    "pageNumber": 2,
+    "paragraphReference": "SECTION 5 - ESCROW FINANCIAL TERMS",
+    "lineReference": "Field 16 - Escrow Service Fee"
+  },
+  {
+    "fieldName": "Disbursement Currency",
+    "extractedValue": "United States Dollar (USD)",
+    "pageNumber": 2,
+    "paragraphReference": "SECTION 5 - ESCROW FINANCIAL TERMS",
+    "lineReference": "Field 17 - Disbursement Currency"
+  },
+  {
+    "fieldName": "Release Trigger Event",
+    "extractedValue": "1. Property title transfer registered with NYC Dept. of Finance.\n2. Clearance from licensed inspector (Ref: INSP-2024-4421). 3. Confirmation of no outstanding liens on subject property.",
+    "pageNumber": 2,
+    "paragraphReference": "SECTION 6 - ESCROW RELEASE CONDITIONS",
+    "lineReference": "Field 18 - Release Trigger Event"
+  },
+  {
+    "fieldName": "Escrow Expiry Date",
+    "extractedValue": "31 December 2024 (90 days from Agreement Date)",
+    "pageNumber": 2,
+    "paragraphReference": "SECTION 6 - ESCROW RELEASE CONDITIONS",
+    "lineReference": "Field 19 - Escrow Expiry Date"
+  },
+  {
+    "fieldName": "AML Verification Status",
+    "extractedValue": "PASSED - FinCEN CDD completed on 28 Sep 2024. Risk Rating: LOW | Provider: LexisNexis Risk Solutions. Next review: 28 Sep 2025.",
+    "pageNumber": 2,
+    "paragraphReference": "SECTION 7 - REGULATORY & COMPLIANCE",
+    "lineReference": "Field 20 - AML Verification Status"
+  }
+]
