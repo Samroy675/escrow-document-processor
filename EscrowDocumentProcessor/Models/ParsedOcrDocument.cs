@@ -16,7 +16,5 @@
     public class ParagraphData
     {
         public string Content { get; set; } = string.Empty;
-        public int Offset { get; set; }
-        public int Length { get; set; }
     }
 }

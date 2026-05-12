@@ -13,8 +13,8 @@ namespace EscrowDocumentProcessor.Extensions
         {
             services.AddSingleton<DocumentIntelligenceService>(_ =>
                 new DocumentIntelligenceService(
-                    configuration["AzureDocumentIntelligence:Endpoint"]!,
-                    configuration["AzureDocumentIntelligence:ApiKey"]!));
+                    configuration["AzureDocumentIntelligence:Endpoint"] ?? throw new InvalidOperationException("Azure Document Intelligence endpoint is not configured."),
+                    configuration["AzureDocumentIntelligence:ApiKey"] ?? throw new InvalidOperationException("Azure Document Intelligence API key is not configured.")));
 
             services.AddSingleton<OcrParserService>();
 
@@ -22,9 +22,9 @@ namespace EscrowDocumentProcessor.Extensions
 
             services.AddSingleton<AzureOpenAiService>(_ =>
                     new AzureOpenAiService(
-                        configuration["AzureOpenAI:Endpoint"]!,
-                        configuration["AzureOpenAI:ApiKey"]!,
-                        configuration["AzureOpenAI:DeploymentName"]!));
+                        configuration["AzureOpenAI:Endpoint"] ?? throw new InvalidOperationException("Azure OpenAI endpoint is not configured."),
+                        configuration["AzureOpenAI:ApiKey"] ?? throw new InvalidOperationException("Azure OpenAI API key is not configured."),
+                        configuration["AzureOpenAI:DeploymentName"] ?? throw new InvalidOperationException("Azure OpenAI deployment name is not configured.")));
 
             return services;
         }

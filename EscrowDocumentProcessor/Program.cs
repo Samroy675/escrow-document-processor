@@ -104,9 +104,16 @@ Console.WriteLine();
 //save output JSON to file
 var outputJsonPath = Path.Combine(Path.GetDirectoryName(pdfPath)!,
     $"{Path.GetFileNameWithoutExtension(pdfPath)}.output.json");
-var parsedJson = JToken.Parse(extractionResponse);
-await File.WriteAllTextAsync(outputJsonPath, parsedJson.ToString(Formatting.Indented));
-Console.WriteLine($"Output JSON saved: {outputJsonPath}");
+try
+{
+    var parsedJson = JToken.Parse(extractionResponse);
+    await File.WriteAllTextAsync(outputJsonPath, parsedJson.ToString(Formatting.Indented));
+    Console.WriteLine($"Output JSON saved: {outputJsonPath}");
+}
+catch (Exception ex)
+{
+    throw new Exception("Failed to parse LLM response as JSON. Response content: " + extractionResponse, ex);
+}
 
 //save parsed version for debugging
 var parsedJsonPath = Path.Combine(

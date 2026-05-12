@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EscrowDocumentProcessor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50d24ee9df55b74a768e24ed720cce8382b6061c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EscrowDocumentProcessor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EscrowDocumentProcessor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

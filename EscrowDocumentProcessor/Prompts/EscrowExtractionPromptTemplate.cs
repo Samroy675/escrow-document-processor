@@ -3,9 +3,7 @@
     public static class EscrowExtractionPromptTemplate
     {
         public const string Template = """
-        You are an intelligent document extraction assistant.
-
-        Analyze the OCR content from an escrow agreement document.
+        Analyze the OCR content from the provided document.
 
         Extract the required fields and return ONLY valid JSON.
 
@@ -39,14 +37,13 @@
             "extractedValue": "",
             "pageNumber": 0,
             "paragraphReference": "",
-            "lineReference": "",
+            "lineReference": ""
           }
         ]
 
         Rules:
         - Return only valid JSON.
         - Do not explain anything.
-        - Use exact OCR source text.
         - Do not hallucinate values.
         - If field not found, return empty string.
         - Include correct page number.

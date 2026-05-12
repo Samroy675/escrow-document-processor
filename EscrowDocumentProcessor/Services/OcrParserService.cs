@@ -51,8 +51,6 @@ namespace EscrowDocumentProcessor.Services
                     parsedDocument.Paragraphs.Add(new ParagraphData
                     {
                         Content = paragraph["Content"]?.ToString() ?? string.Empty,
-                        Offset = span?["Offset"]?.Value<int>() ?? 0,
-                        Length = span?["Length"]?.Value<int>() ?? 0
                     });
                 }
             }

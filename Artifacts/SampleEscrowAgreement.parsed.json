@@ -69,264 +69,160 @@
   ],
   "Paragraphs": [
     {
-      "Content": "ESCROW AGREEMENT",
-      "Offset": 0,
-      "Length": 16
+      "Content": "ESCROW AGREEMENT"
     },
     {
-      "Content": "SECTION 1 - AGREEMENT IDENTIFICATION",
-      "Offset": 17,
-      "Length": 36
+      "Content": "SECTION 1 - AGREEMENT IDENTIFICATION"
     },
     {
-      "Content": "Field 01 - Escrow Reference No.",
-      "Offset": 54,
-      "Length": 31
+      "Content": "Field 01 - Escrow Reference No."
     },
     {
-      "Content": "ESC-REF-2024-NY-00583",
-      "Offset": 86,
-      "Length": 21
+      "Content": "ESC-REF-2024-NY-00583"
     },
     {
-      "Content": "Field 02 - Agreement Date",
-      "Offset": 108,
-      "Length": 25
+      "Content": "Field 02 - Agreement Date"
     },
     {
-      "Content": "01 October 2024",
-      "Offset": 134,
-      "Length": 15
+      "Content": "01 October 2024"
     },
     {
-      "Content": "Field 03 - Agreement Type",
-      "Offset": 150,
-      "Length": 25
+      "Content": "Field 03 - Agreement Type"
     },
     {
-      "Content": "Real Estate Purchase Escrow",
-      "Offset": 176,
-      "Length": 27
+      "Content": "Real Estate Purchase Escrow"
     },
     {
-      "Content": "Field 04 - Jurisdiction",
-      "Offset": 204,
-      "Length": 23
+      "Content": "Field 04 - Jurisdiction"
     },
     {
-      "Content": "State of New York, USA",
-      "Offset": 228,
-      "Length": 22
+      "Content": "State of New York, USA"
     },
     {
-      "Content": "SECTION 2 - ESCROW AGENT DETAILS",
-      "Offset": 251,
-      "Length": 32
+      "Content": "SECTION 2 - ESCROW AGENT DETAILS"
     },
     {
-      "Content": "Field 05 - Escrow Agent Name",
-      "Offset": 284,
-      "Length": 28
+      "Content": "Field 05 - Escrow Agent Name"
     },
     {
-      "Content": "Meridian Trust & Escrow Services LLC",
-      "Offset": 313,
-      "Length": 36
+      "Content": "Meridian Trust & Escrow Services LLC"
     },
     {
-      "Content": "Field 06 - Agent License No.",
-      "Offset": 350,
-      "Length": 28
+      "Content": "Field 06 - Agent License No."
     },
     {
-      "Content": "ESC-2019-00341",
-      "Offset": 379,
-      "Length": 14
+      "Content": "ESC-2019-00341"
     },
     {
-      "Content": "Field 07 - Agent Contact Email",
-      "Offset": 394,
-      "Length": 30
+      "Content": "Field 07 - Agent Contact Email"
     },
     {
-      "Content": "escrow.ops@meridiantrust.com",
-      "Offset": 425,
-      "Length": 28
+      "Content": "escrow.ops@meridiantrust.com"
     },
     {
-      "Content": "SECTION 3 - DEPOSITOR (BUYER) DETAILS",
-      "Offset": 454,
-      "Length": 37
+      "Content": "SECTION 3 - DEPOSITOR (BUYER) DETAILS"
     },
     {
-      "Content": "Field 08 - Depositor Full Name",
-      "Offset": 492,
-      "Length": 30
+      "Content": "Field 08 - Depositor Full Name"
     },
     {
-      "Content": "Mr. Jonathan A. Hargrove",
-      "Offset": 523,
-      "Length": 24
+      "Content": "Mr. Jonathan A. Hargrove"
     },
     {
-      "Content": "Field 09 - Depositor ID (masked)",
-      "Offset": 548,
-      "Length": 32
+      "Content": "Field 09 - Depositor ID (masked)"
     },
     {
-      "Content": "SSN: ***-**- 6742 | Passport: US-P8834921",
-      "Offset": 581,
-      "Length": 41
+      "Content": "SSN: ***-**- 6742 | Passport: US-P8834921"
     },
     {
-      "Content": "Field 10 - Depositor Address",
-      "Offset": 623,
-      "Length": 28
+      "Content": "Field 10 - Depositor Address"
     },
     {
-      "Content": "88 Lakeview Terrace, Brooklyn, NY 11201",
-      "Offset": 652,
-      "Length": 39
+      "Content": "88 Lakeview Terrace, Brooklyn, NY 11201"
     },
     {
-      "Content": "SECTION 4 - BENEFICIARY (SELLER) DETAILS",
-      "Offset": 692,
-      "Length": 40
+      "Content": "SECTION 4 - BENEFICIARY (SELLER) DETAILS"
     },
     {
-      "Content": "Field 11 - Beneficiary Full Name",
-      "Offset": 733,
-      "Length": 32
+      "Content": "Field 11 - Beneficiary Full Name"
     },
     {
-      "Content": "Silverstone Realty Holdings Inc.",
-      "Offset": 766,
-      "Length": 32
+      "Content": "Silverstone Realty Holdings Inc."
     },
     {
-      "Content": "Field 12 - Beneficiary Tax ID (EIN)",
-      "Offset": 799,
-      "Length": 35
+      "Content": "Field 12 - Beneficiary Tax ID (EIN)"
     },
     {
-      "Content": "EIN: 47-8834210",
-      "Offset": 835,
-      "Length": 15
+      "Content": "EIN: 47-8834210"
     },
     {
-      "Content": "Field 13 - Beneficiary Bank Account",
-      "Offset": 851,
-      "Length": 35
+      "Content": "Field 13 - Beneficiary Bank Account"
     },
     {
-      "Content": "Chase Bank | Acct: **** 4892 | ABA: 021000021",
-      "Offset": 887,
-      "Length": 45
+      "Content": "Chase Bank | Acct: **** 4892 | ABA: 021000021"
     },
     {
-      "Content": "Page 1 of 2",
-      "Offset": 933,
-      "Length": 11
+      "Content": "Page 1 of 2"
     },
     {
-      "Content": "ESCROW AGREEMENT - Continued",
-      "Offset": 945,
-      "Length": 28
+      "Content": "ESCROW AGREEMENT - Continued"
     },
     {
-      "Content": "SECTION 5 - ESCROW FINANCIAL TERMS",
-      "Offset": 974,
-      "Length": 34
+      "Content": "SECTION 5 - ESCROW FINANCIAL TERMS"
     },
     {
-      "Content": "Field 14 - Total Escrow Amount",
-      "Offset": 1009,
-      "Length": 30
+      "Content": "Field 14 - Total Escrow Amount"
     },
     {
-      "Content": "USD 1,250,000.00",
-      "Offset": 1040,
-      "Length": 16
+      "Content": "USD 1,250,000.00"
     },
     {
-      "Content": "Field 15 - Initial Deposit Amount",
-      "Offset": 1057,
-      "Length": 33
+      "Content": "Field 15 - Initial Deposit Amount"
     },
     {
-      "Content": "USD 125,000.00 (10% of Total)",
-      "Offset": 1091,
-      "Length": 29
+      "Content": "USD 125,000.00 (10% of Total)"
     },
     {
-      "Content": "Field 16 - Escrow Service Fee",
-      "Offset": 1121,
-      "Length": 29
+      "Content": "Field 16 - Escrow Service Fee"
     },
     {
-      "Content": "USD 3,750.00 (0.3% of Escrow Amount)",
-      "Offset": 1151,
-      "Length": 36
+      "Content": "USD 3,750.00 (0.3% of Escrow Amount)"
     },
     {
-      "Content": "Field 17 - Disbursement Currency",
-      "Offset": 1188,
-      "Length": 32
+      "Content": "Field 17 - Disbursement Currency"
     },
     {
-      "Content": "United States Dollar (USD)",
-      "Offset": 1221,
-      "Length": 26
+      "Content": "United States Dollar (USD)"
     },
     {
-      "Content": "SECTION 6 - ESCROW RELEASE CONDITIONS",
-      "Offset": 1248,
-      "Length": 37
+      "Content": "SECTION 6 - ESCROW RELEASE CONDITIONS"
     },
     {
-      "Content": "Field 18 - Release Trigger Event",
-      "Offset": 1286,
-      "Length": 32
+      "Content": "Field 18 - Release Trigger Event"
     },
     {
-      "Content": "1. Property title transfer registered with NYC Dept. of Finance.",
-      "Offset": 1319,
-      "Length": 64
+      "Content": "1. Property title transfer registered with NYC Dept. of Finance."
     },
     {
-      "Content": "2. Clearance from licensed inspector (Ref: INSP-2024-4421). 3. Confirmation of no outstanding liens on subject property.",
-      "Offset": 1384,
-      "Length": 120
+      "Content": "2. Clearance from licensed inspector (Ref: INSP-2024-4421). 3. Confirmation of no outstanding liens on subject property."
     },
     {
-      "Content": "Field 19 - Escrow Expiry Date",
-      "Offset": 1505,
-      "Length": 29
+      "Content": "Field 19 - Escrow Expiry Date"
     },
     {
-      "Content": "31 December 2024 (90 days from Agreement Date)",
-      "Offset": 1535,
-      "Length": 46
+      "Content": "31 December 2024 (90 days from Agreement Date)"
     },
     {
-      "Content": "SECTION 7 - REGULATORY & COMPLIANCE",
-      "Offset": 1582,
-      "Length": 35
+      "Content": "SECTION 7 - REGULATORY & COMPLIANCE"
     },
     {
-      "Content": "Field 20 - AML Verification Status",
-      "Offset": 1618,
-      "Length": 34
+      "Content": "Field 20 - AML Verification Status"
     },
     {
-      "Content": "PASSED - FinCEN CDD completed on 28 Sep 2024. Risk Rating: LOW | Provider: LexisNexis Risk Solutions. Next review: 28 Sep 2025.",
-      "Offset": 1653,
-      "Length": 127
+      "Content": "PASSED - FinCEN CDD completed on 28 Sep 2024. Risk Rating: LOW | Provider: LexisNexis Risk Solutions. Next review: 28 Sep 2025."
     },
     {
-      "Content": "Page 2 of 2",
-      "Offset": 1781,
-      "Length": 11
+      "Content": "Page 2 of 2"
     }
   ]
 }
